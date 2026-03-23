@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain Payment Gateway Simulator",
+  "description": "A web application that visually simulates how a payment gateway using blockchain technology processes transactions, from initiation to mining and confirmation on the chain.",
+  "requestFramePermissions": []
+}
